@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=500&size=40&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1200&lines=WELCOME+TO+MY+GITHUB+PROFILE&to+My+Github+Profile+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=500&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%20WELCOME+TO+MY+GITHUB+PROFILE!" alt="Typing SVG" />
 </div>
 
 # Hey 👋, I'm JoshLLin!
