@@ -25,7 +25,7 @@
 ### ABOUT MY GITHUB
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=JoshLLin&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   </p>
 </div>
 
